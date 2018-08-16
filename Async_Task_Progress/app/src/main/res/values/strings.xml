@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Async_Task_Progress</string>
+    <string name="enter">Enter Second</string>
+    <string name="sleep_time">Sleep time in Seconds:</string>
+    <string name="run">run async task</string>
+    <string name="slept_for">Slept for</string>
+    <string name="seconds">seconds</string>
+    <string name="wait_for">Wait for</string>
+</resources>
